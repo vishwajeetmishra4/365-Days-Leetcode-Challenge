@@ -1,4 +1,4 @@
-//Day 2 of 365 Days Challenge.
+//Day 3 of 365 Days Challenge.
 
 //Problem number 2125- Number of Laser Beams in a Bank.
 
