@@ -1,3 +1,9 @@
+//Day 13 of 365 Days Challenge.
+
+//Problem number 1347. Minimum Number of Steps to make 2 string Anagram.
+
+//Code Goes from Here.
+
 class Solution {
  public:
   int minSteps(string s, string t) {
