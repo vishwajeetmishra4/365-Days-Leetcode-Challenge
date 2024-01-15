@@ -1,6 +1,6 @@
 // Day 15 of 365 Days coding Challenge.
 
-// Day 15 Problem No. 2225. Find Players With Zero or One Losses.
+// Problem No. 2225. Find Players With Zero or One Losses.
 
 //Code Goes From Here.
 
