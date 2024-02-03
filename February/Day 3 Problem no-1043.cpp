@@ -1,4 +1,4 @@
-// Day 3 of 365 Days Coding Challange.
+// Day 3 of 365 Days Coding Challange.(2nd Month)
 
 // Problem number 1043-Partition Array for Maximum Sum.
 
