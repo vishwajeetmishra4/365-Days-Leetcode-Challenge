@@ -20,6 +20,8 @@ Remember to follow best practices, write clean code, and communicate effectively
 ## Clone 
 `https://github.com/vishwajeetmishra4/365-Days-Leetcode-Challenge.git`
 
+`gh repo clone vishwajeetmishra4/365-Days-Leetcode-Challenge`
+
 ---
 
 Feel free to explore the project and make your mark! 😊
